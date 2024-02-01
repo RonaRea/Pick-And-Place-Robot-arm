@@ -1,0 +1,4 @@
+It is recommended to copy this file (dispaly_dummy_Pose MNinja.ttm) in:
+C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\models\tools\
+
+--> This model will be always visible in your CoppeliaSim Model browser under the tools folder.

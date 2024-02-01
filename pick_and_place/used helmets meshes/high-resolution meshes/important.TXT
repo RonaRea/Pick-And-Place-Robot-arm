@@ -1,0 +1,1 @@
+It is recommended to use the low-resolution meshes STL files in order to reduce the latency when importing the helmets
